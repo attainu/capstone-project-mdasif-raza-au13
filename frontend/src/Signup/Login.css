@@ -1,0 +1,30 @@
+.nav_Link{
+
+}
+li{
+    text-decoration: none;
+    list-style-position: none;
+
+}
+body{
+    background-color: rgb(159, 165, 106);
+}
+.button{
+    /* width: 20rem; */
+    /* padding-top: 3rem; */
+    background-color: black;
+    color: white;
+    border: 1px green;
+    font-size: medium;
+    /* padding-left: 10rem; */
+
+}
+.Login{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 5rem;
+
+
+
+}
